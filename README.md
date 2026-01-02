@@ -1,15 +1,14 @@
-# qminh99.github.io
 
-# [Your Full Name]
-> **[Job Title / Aspiration]** | [Location or Remote]
+# [Minh Nguyen]
+> **[Information Technology]** | [Hybrid]
 
 ---
 
 ### 🚀 Quick Bio
-I am a [Your Profession] specializing in [Skill 1], [Skill 2], and [Skill 3]. I focus on building [what you build] that solves [what problem you solve]. 
+I am an IT student specializing in Software Engineering. I focus on building a finance application that helps managing your cashflow effectively. 
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[New Skill/Language]**
+- 🔭 I’m currently working on **Personal Finance Dashboard**
+- 🌱 I’m currently learning **French**
 - 💬 Ask me about **[Topic you love]**
 - 📫 Reach me at: **[Your Email]**
 
@@ -18,7 +17,7 @@ I am a [Your Profession] specializing in [Skill 1], [Skill 2], and [Skill 3]. I 
 ### 🛠 Tech Stack & Tools
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, HTML/CSS |
+| **Languages** | Python, Go, C++ |
 | **Frameworks** | React, Node.js, Tailwind |
 | **Design/Tools** | Figma, Git, Adobe Suite |
 
@@ -26,7 +25,7 @@ I am a [Your Profession] specializing in [Skill 1], [Skill 2], and [Skill 3]. I 
 
 ### 📂 Featured Projects
 
-#### 1. [Project Name] 
+#### 1. Personal Finance Dashboard 
 *Description of the project. Mention the specific problem you solved.*
 - **Tech:** React, Firebase, Stripe API
 - [🔗 Live Demo](https://yourlink.com) | [💻 Source Code](https://github.com/yourname/repo)
